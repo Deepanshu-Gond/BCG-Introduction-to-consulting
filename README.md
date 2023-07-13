@@ -9,3 +9,5 @@ In this task I learned through a TED Talk from BCG Partner & Director Alan Iny, 
 
 I was asked to generate ideas to help a fictional luxury clothing company increase sales revenue. I learned about framing effective questions, creating conditions that aid creativity, revealing and doubting your current assumptions (or “boxes”), building new ones, and generating ideas within those new boxes.  I made a presentation containing all the questions, issues and mitigations.
 
+## Certificate
+![BCG-Introduction to Strategy Consulting Virtual Experience Program-Certificate](https://github.com/Deepanshu-Gond/BCG-Introduction-to-consulting/assets/77718765/b62e8489-9597-41a3-89e7-3dc958d8a3ea)
