@@ -1,4 +1,4 @@
-# BCG Introduction To Consulting
+# BCG: Introduction To Consulting
 In this online program, I got to complete similar work that consultants do at BCG. I gained enviable insight into what it’s like to solve meaningful challenges with our diverse and forward-thinking team. I got to learn what thinking outside the box actually means, how an idea which is considered irrelevant by bunch of people can be a game changer for the organisations.
 
 ## Task 1: Challenge your Mental Models
